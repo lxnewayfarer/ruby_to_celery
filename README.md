@@ -15,5 +15,6 @@ It allows to connect Ruby script with heavy Celery worker when it is required
 
 ### Check response:
 `ruby try.rb`
+___
 
 RabbitMQ interface: http://localhost:15672/ 
